@@ -1,1 +1,6 @@
 # secondrepository
+
+ ikinci repository
+ 
+
+
